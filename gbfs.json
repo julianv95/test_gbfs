@@ -1,0 +1,23 @@
+{
+  "last_updated": 1621036800,
+  "ttl": 86400,
+  "version": "2.2",
+  "data": {
+    "de": {
+      "feeds": [
+        {
+          "name": "system_information",
+          "url": "https://raw.githubusercontent.com/julianv95/test_gbfs/main/system_information.json"
+        },
+        {
+          "name": "station_information",
+          "url": "https://raw.githubusercontent.com/julianv95/test_gbfs/main/station_information.json"
+        },
+        {
+          "name": "station_status",
+          "url": "https://raw.githubusercontent.com/julianv95/test_gbfs/main/station_status.json"
+        }
+      ]
+    }
+  }
+}
