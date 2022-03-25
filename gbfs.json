@@ -7,7 +7,7 @@
       "feeds": [
         {
           "name": "system_information",
-          "url": "https://raw.githubusercontent.com/julianv95/test_gbfs/main/system_information.json"
+          "url": "https://raw.githubusercontent.com/julianv95/test_gbfs/main/sytsem_information.json"
         },
         {
           "name": "station_information",
