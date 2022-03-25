@@ -1,0 +1,4210 @@
+{
+    "data": {
+        "stations": [
+            {
+                "lat": 49.399001,
+                "lon": 8.689129,
+                "name": "S-Bahnhof Weststadt/Südstadt",
+                "address": null,
+                "station_id": 121354,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.414965,
+                "lon": 8.664772,
+                "name": "Neuenheimer Feld – Zoo",
+                "address": null,
+                "station_id": 121355,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.412994,
+                "lon": 8.676321,
+                "name": "Neuenheimer Feld – Jahnstraße",
+                "address": null,
+                "station_id": 121357,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.418566,
+                "lon": 8.690573,
+                "name": "Neuenheim – Kußmaulstraße",
+                "address": null,
+                "station_id": 121359,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.41106,
+                "lon": 8.706719,
+                "name": "Altstadt – Universitätsplatz",
+                "address": null,
+                "station_id": 121361,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.411989,
+                "lon": 8.699137,
+                "name": "Altstadt – Stadthalle",
+                "address": null,
+                "station_id": 121363,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.413266,
+                "lon": 8.691881,
+                "name": "Neuenheim – Neckarwiese",
+                "address": null,
+                "station_id": 121368,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.404813,
+                "lon": 8.675428,
+                "name": "Hauptbahnhof Nord",
+                "address": null,
+                "station_id": 121377,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.380368,
+                "lon": 8.687546,
+                "name": "Rohrbach – Markt",
+                "address": null,
+                "station_id": 339517,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.415281,
+                "lon": 8.761061,
+                "name": "S-Bahnhof Schlierbach/Ziegelhausen",
+                "address": null,
+                "station_id": 339519,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.377529,
+                "lon": 8.666115,
+                "name": "Kirchheim – Rathaus",
+                "address": null,
+                "station_id": 339522,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.419178,
+                "lon": 8.756586,
+                "name": "Ziegelhausen – Neckarschule",
+                "address": null,
+                "station_id": 339523,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.428198,
+                "lon": 8.683598,
+                "name": "Handschuhsheim – Hans-Thoma-Platz",
+                "address": null,
+                "station_id": 344831,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.401751,
+                "lon": 8.672343,
+                "name": "Bahnstadt Halle 02",
+                "address": null,
+                "station_id": 495832,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.42343,
+                "lon": 8.645995,
+                "name": "Wieblingen Mitte",
+                "address": null,
+                "station_id": 497198,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.415036,
+                "lon": 8.720242,
+                "name": "Altstadt - Karlstorbahnhof",
+                "address": null,
+                "station_id": 509947,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.407127,
+                "lon": 8.690647,
+                "name": "Bergheim - Kurfürstenanlage",
+                "address": null,
+                "station_id": 661038,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.40817,
+                "lon": 8.687991,
+                "name": "Bergheim - Altes Hallenbad",
+                "address": null,
+                "station_id": 661043,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.413734,
+                "lon": 8.71432,
+                "name": "Altstadt - Neckarmünzplatz",
+                "address": null,
+                "station_id": 681918,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.409137,
+                "lon": 8.698125,
+                "name": "Altstadt - Friedrich-Ebert Platz",
+                "address": null,
+                "station_id": 681922,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.410104,
+                "lon": 8.703715,
+                "name": "Altstadt - Theaterstraße",
+                "address": null,
+                "station_id": 732725,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.413203,
+                "lon": 8.70563,
+                "name": "Altstadt - Marstall",
+                "address": null,
+                "station_id": 732726,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.41597,
+                "lon": 8.67167,
+                "name": "Neuenheimer Feld – Zentralmensa",
+                "address": null,
+                "station_id": 1250591,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.41979,
+                "lon": 8.67488,
+                "name": "Neuenheimer Feld – Mathematikon",
+                "address": null,
+                "station_id": 1250605,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.390129,
+                "lon": 8.666416,
+                "name": "Sportzentrum Süd",
+                "address": null,
+                "station_id": 1814955,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.405832,
+                "lon": 8.683877,
+                "name": "Rhein-Neckar-Kreis / Kurfürstenanlage",
+                "address": null,
+                "station_id": 4287542,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.419857,
+                "lon": 8.684888,
+                "name": "PH Heidelberg - CampusRad",
+                "address": null,
+                "station_id": 7447271,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.419829,
+                "lon": 8.669628,
+                "name": "Im Neuenheimer Feld / PH Heidelberg - CampusRad",
+                "address": null,
+                "station_id": 7447360,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.401978,
+                "lon": 8.6405,
+                "name": "Eppelheimer Straße - CampusRad",
+                "address": null,
+                "station_id": 7472124,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.389809,
+                "lon": 8.689503,
+                "name": "Rheinstraße - CampusRad",
+                "address": null,
+                "station_id": 7472241,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.384066,
+                "lon": 8.684925,
+                "name": "Holbeinring - CampusRad",
+                "address": null,
+                "station_id": 8828563,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.420337,
+                "lon": 8.659163,
+                "name": "Tiergartenschwimmbad",
+                "address": null,
+                "station_id": 12338899,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.425246,
+                "lon": 8.656672,
+                "name": "Springer Verlag",
+                "address": null,
+                "station_id": 13334262,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.378751,
+                "lon": 8.67634,
+                "name": "Kirchheim - S-Bahnhof",
+                "address": null,
+                "station_id": 19153166,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.412156,
+                "lon": 8.641546,
+                "name": "S-Bahnhof Pfaffengrund/Wieblingen - CampusRad",
+                "address": null,
+                "station_id": 20555131,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.407633,
+                "lon": 8.638826,
+                "name": "Dischingerstraße",
+                "address": null,
+                "station_id": 27195756,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.400997,
+                "lon": 8.668959,
+                "name": "Langer Anger",
+                "address": null,
+                "station_id": 36673075,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.403643,
+                "lon": 8.667312,
+                "name": "Grüne Meile",
+                "address": null,
+                "station_id": 36673159,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.405626,
+                "lon": 8.693989,
+                "name": "Weststadt - Gaisbergstraße",
+                "address": null,
+                "station_id": 37539484,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.404285,
+                "lon": 8.676378,
+                "name": "HBF - Willy-Brandt - Platz",
+                "address": null,
+                "station_id": 59654355,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.402488,
+                "lon": 8.647174,
+                "name": "Marktplatz / Pfaffengrund",
+                "address": null,
+                "station_id": 59655887,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.408694,
+                "lon": 8.693737,
+                "name": "Altstadt - Plöck",
+                "address": null,
+                "station_id": 59656724,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.393784,
+                "lon": 8.670809,
+                "name": "SNP-Dome",
+                "address": null,
+                "station_id": 59657530,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.410556,
+                "lon": 8.706623,
+                "name": "BIKE 431075",
+                "address": null,
+                "station_id": 72031035,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.411378,
+                "lon": 8.675504,
+                "name": "BIKE 430972",
+                "address": null,
+                "station_id": 72036135,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.409489,
+                "lon": 8.705713,
+                "name": "BIKE 44433",
+                "address": null,
+                "station_id": 72039360,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.419378,
+                "lon": 8.663263,
+                "name": "BIKE 430672",
+                "address": null,
+                "station_id": 72042525,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.407973,
+                "lon": 8.677153,
+                "name": "BIKE 44417",
+                "address": null,
+                "station_id": 72044914,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.47709,
+                "lon": 8.463614,
+                "name": "Lindenhof - Jugendherberge",
+                "address": null,
+                "station_id": 121376,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.49712,
+                "lon": 8.473018,
+                "name": "Neckarstadt - Alter Messplatz",
+                "address": null,
+                "station_id": 339343,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.497263,
+                "lon": 8.483832,
+                "name": "Neckarstadt-Ost - Lange Rötterstraße",
+                "address": null,
+                "station_id": 339346,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.498946,
+                "lon": 8.467224,
+                "name": "Neumarkt",
+                "address": null,
+                "station_id": 339349,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.506903,
+                "lon": 8.492206,
+                "name": "Studentensiedlung Ludwig Frank",
+                "address": null,
+                "station_id": 339350,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.497225,
+                "lon": 8.457751,
+                "name": "Jungbusch - Popakademie",
+                "address": null,
+                "station_id": 339352,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.493002,
+                "lon": 8.470325,
+                "name": "K1 - Kurpfalzbrücke",
+                "address": null,
+                "station_id": 339354,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.490685,
+                "lon": 8.475705,
+                "name": "Gewerkschaftshaus",
+                "address": null,
+                "station_id": 339456,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.489559,
+                "lon": 8.480297,
+                "name": "Theresienkrankenhaus",
+                "address": null,
+                "station_id": 339457,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.487939,
+                "lon": 8.478742,
+                "name": "Nationaltheater",
+                "address": null,
+                "station_id": 339459,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.485357,
+                "lon": 8.47665,
+                "name": "Kongresszentrum Rosengarten",
+                "address": null,
+                "station_id": 339461,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.489761,
+                "lon": 8.468437,
+                "name": "R1 - Marktplatz",
+                "address": null,
+                "station_id": 339462,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.487956,
+                "lon": 8.466007,
+                "name": "E1 - Paradeplatz",
+                "address": null,
+                "station_id": 339463,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.489012,
+                "lon": 8.462997,
+                "name": "E4 - Rathaus",
+                "address": null,
+                "station_id": 339464,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.483245,
+                "lon": 8.474793,
+                "name": "Kunsthalle",
+                "address": null,
+                "station_id": 339465,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.491183,
+                "lon": 8.462391,
+                "name": "G7 - Westliche Unterstadt",
+                "address": null,
+                "station_id": 339466,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.484576,
+                "lon": 8.459859,
+                "name": "Universität Mensa",
+                "address": null,
+                "station_id": 339468,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.486935,
+                "lon": 8.458459,
+                "name": "A5 - Universität West",
+                "address": null,
+                "station_id": 339472,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.4846,
+                "lon": 8.463464,
+                "name": "L1 - Schloss",
+                "address": null,
+                "station_id": 339473,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.479902,
+                "lon": 8.469697,
+                "name": "Hauptbahnhof Mannheim",
+                "address": null,
+                "station_id": 339475,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.493448,
+                "lon": 8.458968,
+                "name": "Jungbusch - Jungbuschstraße",
+                "address": null,
+                "station_id": 339476,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.470261,
+                "lon": 8.482255,
+                "name": "Hochschule Mannheim",
+                "address": null,
+                "station_id": 339478,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.479502,
+                "lon": 8.495221,
+                "name": "Oststadt - Luisenpark",
+                "address": null,
+                "station_id": 339481,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.477358,
+                "lon": 8.496122,
+                "name": "Technoseum",
+                "address": null,
+                "station_id": 339482,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.478512,
+                "lon": 8.482561,
+                "name": "Schwetzingerstadt - Pestalozzischule",
+                "address": null,
+                "station_id": 339485,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.485371,
+                "lon": 8.469493,
+                "name": "N5 - Kapuzinerplanken ",
+                "address": null,
+                "station_id": 339487,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.477236,
+                "lon": 8.467573,
+                "name": "Lindenhof - Lindenhofplatz",
+                "address": null,
+                "station_id": 660937,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.464913,
+                "lon": 8.475941,
+                "name": "Neckarau - Markuskirche",
+                "address": null,
+                "station_id": 660939,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.474329,
+                "lon": 8.486944,
+                "name": "Schwetzingerstadt - rnv Betriebshof Möhlstraße",
+                "address": null,
+                "station_id": 660943,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.474531,
+                "lon": 8.489524,
+                "name": "Schwetzingerstadt - Dynamostraße",
+                "address": null,
+                "station_id": 660945,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.48275,
+                "lon": 8.463303,
+                "name": "Universität Schloss",
+                "address": null,
+                "station_id": 660951,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.456695,
+                "lon": 8.481027,
+                "name": "Neckarau - Hans-Sachs-Ring",
+                "address": null,
+                "station_id": 660971,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.494114,
+                "lon": 8.4676,
+                "name": "MVV Hochhaus",
+                "address": null,
+                "station_id": 660974,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.508376,
+                "lon": 8.476054,
+                "name": "Neckarstadt-Ost  - Carl-Zuckmayer-Straße",
+                "address": null,
+                "station_id": 660978,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.502211,
+                "lon": 8.465255,
+                "name": "Neckarstadt-West - Riedfeldstraße",
+                "address": null,
+                "station_id": 660983,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.47365,
+                "lon": 8.46642,
+                "name": "Lindenhof - Johanniskirche",
+                "address": null,
+                "station_id": 1557693,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.518713,
+                "lon": 8.535995,
+                "name": "Franklin - Franklin Field",
+                "address": null,
+                "station_id": 1804946,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.473472,
+                "lon": 8.53399,
+                "name": "DHBW Mannheim - Campus Coblitzallee",
+                "address": null,
+                "station_id": 4726808,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.500855,
+                "lon": 8.499588,
+                "name": "DHBW Mannheim - Campus Käfertalerstr.",
+                "address": null,
+                "station_id": 4726822,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.485757,
+                "lon": 8.473426,
+                "name": "P7 - Fressgasse",
+                "address": null,
+                "station_id": 4915747,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.481997,
+                "lon": 8.483387,
+                "name": "Oststadt Karl-Ludwig-Straße",
+                "address": null,
+                "station_id": 5582461,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.492344,
+                "lon": 8.482906,
+                "name": "Universitätsklinik Mannheim - CampusRad",
+                "address": null,
+                "station_id": 7853258,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.508189,
+                "lon": 8.512414,
+                "name": "Mannheimer Straße",
+                "address": null,
+                "station_id": 9214247,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.509912,
+                "lon": 8.483559,
+                "name": "Herzogenried - Sandgewann",
+                "address": null,
+                "station_id": 24559076,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.467531,
+                "lon": 8.503804,
+                "name": "Neuhermsheim - Dragonerweg",
+                "address": null,
+                "station_id": 24559100,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.485956,
+                "lon": 8.466076,
+                "name": "N2 – Stadthaus",
+                "address": null,
+                "station_id": 27230822,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.503921,
+                "lon": 8.477009,
+                "name": "Neckarstadt-Ost - Herzogenriedpark",
+                "address": null,
+                "station_id": 27230871,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.478118,
+                "lon": 8.501873,
+                "name": " Carl-Benz-Stadion",
+                "address": null,
+                "station_id": 27230961,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.452873,
+                "lon": 8.495253,
+                "name": "Neckarau - Friedrichstraße",
+                "address": null,
+                "station_id": 27231009,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.473974,
+                "lon": 8.472009,
+                "name": "Lindenhof - Hanns-Glückstein-Park ",
+                "address": null,
+                "station_id": 28450242,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.475967,
+                "lon": 8.483157,
+                "name": "Schwetzingerstadt - Krappmühlstraße",
+                "address": "49.476000,8.483103",
+                "station_id": 28450544,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.479913,
+                "lon": 8.475652,
+                "name": "Schwetzingerstadt - Keplerstraße",
+                "address": null,
+                "station_id": 28450596,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.481645,
+                "lon": 8.478822,
+                "name": "Schwetzingerstadt - Richard-Wagner-Straße",
+                "address": null,
+                "station_id": 28450647,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.496424,
+                "lon": 8.47725,
+                "name": "Neckarstadt-Ost  - Clignetplatz",
+                "address": null,
+                "station_id": 28450681,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.483335,
+                "lon": 8.480367,
+                "name": "Oststadt - Beethovenstraße",
+                "address": null,
+                "station_id": 28455055,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.459886,
+                "lon": 8.516775,
+                "name": "S-Bahnhof Arena/Maimarkt",
+                "address": null,
+                "station_id": 29111804,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.501925,
+                "lon": 8.491123,
+                "name": "Turleyplatz",
+                "address": null,
+                "station_id": 29794323,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.484387,
+                "lon": 8.473963,
+                "name": "Am Plankenkopf",
+                "address": null,
+                "station_id": 29964359,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.468919,
+                "lon": 8.470824,
+                "name": "Lindenhof - Meeräckerplatz",
+                "address": null,
+                "station_id": 30612064,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.47764,
+                "lon": 8.522075,
+                "name": "Neuostheim - Endstelle",
+                "address": null,
+                "station_id": 30612140,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.478184,
+                "lon": 8.506728,
+                "name": "Neuostheim – Dürerstraße",
+                "address": null,
+                "station_id": 30612162,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.454718,
+                "lon": 8.483044,
+                "name": "Neckarau - Rheingoldplatz",
+                "address": null,
+                "station_id": 30612186,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.4945,
+                "lon": 8.459644,
+                "name": "Jungbusch - Beilstraße",
+                "address": null,
+                "station_id": 30612203,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.497065,
+                "lon": 8.492131,
+                "name": "Wohlgelegen - Ludolf-Krehl-Straße",
+                "address": null,
+                "station_id": 30612225,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.500678,
+                "lon": 8.470904,
+                "name": "Neckarstadt-West – Gartenfeldstraße",
+                "address": null,
+                "station_id": 30612231,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.499357,
+                "lon": 8.461822,
+                "name": "Neckarstadt-West – Marchivum",
+                "address": null,
+                "station_id": 30612240,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.4908,
+                "lon": 8.471387,
+                "name": "U3 – Herschelbad",
+                "address": null,
+                "station_id": 30612250,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.485946,
+                "lon": 8.46215,
+                "name": "B3 – Schillerplatz",
+                "address": null,
+                "station_id": 30612264,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.487604,
+                "lon": 8.471435,
+                "name": "R5",
+                "address": null,
+                "station_id": 31471276,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.459715,
+                "lon": 8.487411,
+                "name": "Almenhof August-Bebel-Park",
+                "address": null,
+                "station_id": 31471648,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.489671,
+                "lon": 8.466929,
+                "name": "G1 – Marktplatz",
+                "address": null,
+                "station_id": 33282192,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.476138,
+                "lon": 8.505714,
+                "name": "Eastsite",
+                "address": null,
+                "station_id": 33282236,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.46461,
+                "lon": 8.471902,
+                "name": "Niederfeld - Diakonissen-Krankenhaus",
+                "address": null,
+                "station_id": 33282690,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.4658,
+                "lon": 8.508968,
+                "name": "Gerd-Dehof-Platz",
+                "address": null,
+                "station_id": 33776080,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.529564,
+                "lon": 8.468378,
+                "name": "Roche - Tor 1",
+                "address": null,
+                "station_id": 34525897,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.51373,
+                "lon": 8.52708,
+                "name": "Franklin - Bensheimer Straße",
+                "address": null,
+                "station_id": 38930075,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.512469,
+                "lon": 8.517848,
+                "name": "Käfertal Mitte",
+                "address": null,
+                "station_id": 38930122,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.525682,
+                "lon": 8.534896,
+                "name": "Franklin - George-Sullivan-Ring",
+                "address": null,
+                "station_id": 38930131,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.523523,
+                "lon": 8.525198,
+                "name": "Franklin - Offizierssiedlung",
+                "address": null,
+                "station_id": 38930139,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.518742,
+                "lon": 8.531093,
+                "name": "Franklin -  George-Washington-Straße",
+                "address": null,
+                "station_id": 38930150,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.525501,
+                "lon": 8.481724,
+                "name": "S-Bahnhof Waldhof",
+                "address": null,
+                "station_id": 57585097,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.528227,
+                "lon": 8.476462,
+                "name": "Roche - Oppauer Straße",
+                "address": null,
+                "station_id": 57585616,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.531124,
+                "lon": 8.480346,
+                "name": "Roche - Tor 4",
+                "address": null,
+                "station_id": 57585948,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.476208,
+                "lon": 8.470888,
+                "name": "Lindenhof / NTR",
+                "address": null,
+                "station_id": 58196617,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.480738,
+                "lon": 8.473209,
+                "name": "BIKE 430643",
+                "address": null,
+                "station_id": 71994014,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.531013,
+                "lon": 8.490747,
+                "name": "BIKE 431003",
+                "address": null,
+                "station_id": 72010399,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.493796,
+                "lon": 8.489667,
+                "name": "BIKE 42817",
+                "address": null,
+                "station_id": 72013996,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.480484,
+                "lon": 8.469762,
+                "name": "BIKE 430078",
+                "address": null,
+                "station_id": 72030568,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.4822,
+                "lon": 8.466037,
+                "name": "BIKE 430983",
+                "address": null,
+                "station_id": 72031352,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.508009,
+                "lon": 8.482303,
+                "name": "BIKE 42954",
+                "address": null,
+                "station_id": 72034251,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.49656,
+                "lon": 8.456853,
+                "name": "BIKE 42837",
+                "address": null,
+                "station_id": 72041262,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.480093,
+                "lon": 8.470831,
+                "name": "BIKE 430203",
+                "address": null,
+                "station_id": 72042565,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.480258,
+                "lon": 8.470729,
+                "name": "BIKE 43368",
+                "address": null,
+                "station_id": 72044530,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.483716,
+                "lon": 8.467056,
+                "name": "BIKE 430999",
+                "address": null,
+                "station_id": 72046944,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.478299,
+                "lon": 8.435215,
+                "name": "Hauptbahnhof",
+                "address": null,
+                "station_id": 344835,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.480502,
+                "lon": 8.4509,
+                "name": "Berliner Platz",
+                "address": null,
+                "station_id": 344836,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.484688,
+                "lon": 8.443261,
+                "name": "Rathaus",
+                "address": null,
+                "station_id": 344837,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.480293,
+                "lon": 8.446378,
+                "name": "Pfalzbau",
+                "address": null,
+                "station_id": 344838,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.473381,
+                "lon": 8.42359,
+                "name": "Hochschule Ludwigshafen",
+                "address": null,
+                "station_id": 344839,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.484154,
+                "lon": 8.448508,
+                "name": "Rhein-Galerie",
+                "address": null,
+                "station_id": 344840,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.49542,
+                "lon": 8.431106,
+                "name": "BASF Besucherzentrum",
+                "address": null,
+                "station_id": 660990,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.48912,
+                "lon": 8.432114,
+                "name": "Hemshof - Goerdelerplatz",
+                "address": null,
+                "station_id": 660995,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.49241,
+                "lon": 8.436685,
+                "name": "Hemshof - BASF Süd",
+                "address": null,
+                "station_id": 660999,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.473876,
+                "lon": 8.447843,
+                "name": "LU Süd - Schützenplatz",
+                "address": null,
+                "station_id": 661021,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.47534,
+                "lon": 8.455203,
+                "name": "LU Süd - Rheinallee",
+                "address": null,
+                "station_id": 661024,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.48472,
+                "lon": 8.4398,
+                "name": "Kreisverwaltung - Europaplatz",
+                "address": null,
+                "station_id": 2129321,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.475546,
+                "lon": 8.450814,
+                "name": "Pfalzgrafenplatz",
+                "address": null,
+                "station_id": 3938985,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.473436,
+                "lon": 8.44148,
+                "name": "Sebastian-Bach-Straße",
+                "address": null,
+                "station_id": 10409761,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.469525,
+                "lon": 8.455849,
+                "name": "Schwanthalerplatz",
+                "address": null,
+                "station_id": 11272269,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.471641,
+                "lon": 8.45175,
+                "name": "Amtsgericht",
+                "address": null,
+                "station_id": 11272311,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.477626,
+                "lon": 8.444147,
+                "name": "Wredestraße",
+                "address": null,
+                "station_id": 11272337,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.485247,
+                "lon": 8.430666,
+                "name": "Marienkirche",
+                "address": null,
+                "station_id": 11272359,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.490139,
+                "lon": 8.423415,
+                "name": "Klinikum",
+                "address": null,
+                "station_id": 11272372,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.440739,
+                "lon": 8.425709,
+                "name": "Rheingönheim - Neubruch",
+                "address": null,
+                "station_id": 41478928,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.449166,
+                "lon": 8.423933,
+                "name": "Rheingönheim -  Kornackerstraße",
+                "address": null,
+                "station_id": 41479005,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.444332,
+                "lon": 8.41564,
+                "name": "Rheingönheim -  Hauptstraße",
+                "address": null,
+                "station_id": 41479076,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.443502,
+                "lon": 8.419181,
+                "name": "Rheingönheim - Endstelle",
+                "address": null,
+                "station_id": 41479202,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.447733,
+                "lon": 8.409256,
+                "name": "Rheingönheim - S-Bahnhof Westseite",
+                "address": null,
+                "station_id": 41479474,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.447391,
+                "lon": 8.409986,
+                "name": "Rheingönheim - S-Bahnhof Ostseite",
+                "address": null,
+                "station_id": 41479520,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.453229,
+                "lon": 8.402663,
+                "name": "Gartenstadt - Von-Kieffer-Straße",
+                "address": null,
+                "station_id": 41479572,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.459101,
+                "lon": 8.407974,
+                "name": "Gartenstadt - Marienkrankenhaus",
+                "address": null,
+                "station_id": 41479669,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.45514,
+                "lon": 8.405179,
+                "name": "Gartenstadt - Kärtnerstraße",
+                "address": null,
+                "station_id": 41479776,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.465963,
+                "lon": 8.408082,
+                "name": "Gartenstadt - Raschig-/Hochfeldstraße",
+                "address": null,
+                "station_id": 41479819,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.463373,
+                "lon": 8.429191,
+                "name": "Mundenheim - Am Schwanen",
+                "address": null,
+                "station_id": 41480021,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.461141,
+                "lon": 8.421198,
+                "name": "Mundenheim - S-Bahnhof Ostseite",
+                "address": null,
+                "station_id": 41480058,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.462187,
+                "lon": 8.420913,
+                "name": "Mundenheim - S-Bahnhof Westseite",
+                "address": null,
+                "station_id": 41480113,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.466318,
+                "lon": 8.419604,
+                "name": "Mundenheim - Bruchwiesen-/Pinienstraße",
+                "address": null,
+                "station_id": 41480206,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.457232,
+                "lon": 8.427002,
+                "name": "Mundenheim - Hoheneckenstraße",
+                "address": null,
+                "station_id": 41480250,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.467448,
+                "lon": 8.434415,
+                "name": "Mundenheim - Südweststadion",
+                "address": null,
+                "station_id": 41480304,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.489737,
+                "lon": 8.417448,
+                "name": "Friesenheim - Ebertpark",
+                "address": null,
+                "station_id": 41480534,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.498434,
+                "lon": 8.411214,
+                "name": "Friesenheim - Luitpoldplatz",
+                "address": null,
+                "station_id": 41480589,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.494068,
+                "lon": 8.362715,
+                "name": "Oggersheim -  Adolf-Diesterweg-/Adolf-Kolping-Straße",
+                "address": null,
+                "station_id": 41480716,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.492918,
+                "lon": 8.381335,
+                "name": "Oggersheim - S-Bahnhof",
+                "address": null,
+                "station_id": 41480849,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.492103,
+                "lon": 8.376265,
+                "name": "Oggersheim - Hans-Warsch-Platz",
+                "address": null,
+                "station_id": 41480902,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.488828,
+                "lon": 8.364099,
+                "name": "Oggersheim - Endstelle",
+                "address": null,
+                "station_id": 41481152,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.50753,
+                "lon": 8.380181,
+                "name": "Melm -  Willi-Sohl-Straße",
+                "address": null,
+                "station_id": 41481221,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.505792,
+                "lon": 8.385202,
+                "name": "Melm - Senta-Geissler-Straße",
+                "address": null,
+                "station_id": 41481311,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.502643,
+                "lon": 8.38185,
+                "name": "Melm Erwin-Bünisholz-Weg",
+                "address": null,
+                "station_id": 41481357,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.487018,
+                "lon": 8.440249,
+                "name": "BIKE 430442",
+                "address": null,
+                "station_id": 71994842,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.316958,
+                "lon": 8.449868,
+                "name": "Anlegestelle Rhein",
+                "address": null,
+                "station_id": 348020,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.327017,
+                "lon": 8.41748,
+                "name": "Speyer West - Berliner Platz",
+                "address": null,
+                "station_id": 348021,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.324071,
+                "lon": 8.428981,
+                "name": "Hauptbahnhof",
+                "address": null,
+                "station_id": 348022,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.317436,
+                "lon": 8.431744,
+                "name": "Postplatz",
+                "address": null,
+                "station_id": 348023,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.317593,
+                "lon": 8.416232,
+                "name": "Universität",
+                "address": null,
+                "station_id": 348025,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.31511,
+                "lon": 8.443422,
+                "name": "Festplatz",
+                "address": null,
+                "station_id": 348026,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.317918,
+                "lon": 8.438148,
+                "name": "Salzgasse",
+                "address": null,
+                "station_id": 348027,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.316307,
+                "lon": 8.441675,
+                "name": "Dom",
+                "address": null,
+                "station_id": 348030,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.333852,
+                "lon": 8.418215,
+                "name": "S-Bahn-Haltepunkt Nord/West",
+                "address": null,
+                "station_id": 4730317,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.321353,
+                "lon": 8.418108,
+                "name": "Speyer West - Lessingstr.",
+                "address": null,
+                "station_id": 4730375,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.310885,
+                "lon": 8.425339,
+                "name": "Speyer Süd - Platz der Stadt Gniezno",
+                "address": null,
+                "station_id": 37268585,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.307284,
+                "lon": 8.442969,
+                "name": "BIKE 430931",
+                "address": null,
+                "station_id": 71999027,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.313471,
+                "lon": 8.427837,
+                "name": "BIKE 42824",
+                "address": null,
+                "station_id": 72009187,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.313769,
+                "lon": 8.426802,
+                "name": "BIKE 430285",
+                "address": null,
+                "station_id": 72021215,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.31352,
+                "lon": 8.427127,
+                "name": "BIKE 43118",
+                "address": null,
+                "station_id": 72027043,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.313551,
+                "lon": 8.42725,
+                "name": "BIKE 430407",
+                "address": null,
+                "station_id": 72048921,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.68141,
+                "lon": 8.61765,
+                "name": "Bahnhof",
+                "address": null,
+                "station_id": 704300,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.678056,
+                "lon": 8.622224,
+                "name": "Untere Fußgängerzone",
+                "address": null,
+                "station_id": 704302,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.67721,
+                "lon": 8.61513,
+                "name": "Einkaufszentrum Güterbahnhof",
+                "address": null,
+                "station_id": 704303,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.68256,
+                "lon": 8.62007,
+                "name": "Parktheater",
+                "address": null,
+                "station_id": 704305,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.68857,
+                "lon": 8.619676,
+                "name": "Rathaus",
+                "address": null,
+                "station_id": 704308,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.68771,
+                "lon": 8.60668,
+                "name": "Weststadthalle / Badesee",
+                "address": null,
+                "station_id": 704310,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.70238,
+                "lon": 8.61354,
+                "name": "Auerbach - Bahnhof",
+                "address": null,
+                "station_id": 704311,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.70008,
+                "lon": 8.62178,
+                "name": "Auerbach - Kronepark",
+                "address": null,
+                "station_id": 704314,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.683582,
+                "lon": 8.613517,
+                "name": "Hallenbad",
+                "address": null,
+                "station_id": 5761343,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.673259,
+                "lon": 8.605594,
+                "name": "Karl Kübel Schule",
+                "address": null,
+                "station_id": 5761351,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.671443,
+                "lon": 8.586153,
+                "name": "Stubenwald",
+                "address": null,
+                "station_id": 5761358,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.682431,
+                "lon": 8.619178,
+                "name": "BIKE 430569",
+                "address": null,
+                "station_id": 72013891,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.632701,
+                "lon": 8.364018,
+                "name": "Kaiserpassage",
+                "address": null,
+                "station_id": 2431712,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.631572,
+                "lon": 8.375745,
+                "name": "Rheinbrücke",
+                "address": null,
+                "station_id": 2431720,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.634772,
+                "lon": 8.357956,
+                "name": "Hauptbahnhof Ost / St-Albans-Platz",
+                "address": null,
+                "station_id": 2431721,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.632618,
+                "lon": 8.360767,
+                "name": "Parmaplatz",
+                "address": null,
+                "station_id": 2431722,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.634918,
+                "lon": 8.355092,
+                "name": "Hauptbahnhof West / Auxerreplatz",
+                "address": null,
+                "station_id": 2431723,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.638927,
+                "lon": 8.350543,
+                "name": "Ärztehaus - Bebelstr.",
+                "address": null,
+                "station_id": 2431724,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.629414,
+                "lon": 8.358911,
+                "name": "Jugendherberge / Dom",
+                "address": null,
+                "station_id": 2431727,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.629692,
+                "lon": 8.361003,
+                "name": "Neumarkt / Touristinformation",
+                "address": null,
+                "station_id": 2431728,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.630693,
+                "lon": 8.356197,
+                "name": "Das Wormser",
+                "address": null,
+                "station_id": 2431729,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.63983,
+                "lon": 8.360467,
+                "name": "Prinz-Carl-Anlage",
+                "address": null,
+                "station_id": 2431734,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.634327,
+                "lon": 8.344846,
+                "name": "Hochschule Campus Nord",
+                "address": null,
+                "station_id": 2431737,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.632239,
+                "lon": 8.344634,
+                "name": "Hochschule Campus Süd",
+                "address": null,
+                "station_id": 2431738,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.633529,
+                "lon": 8.364348,
+                "name": "BIKE 42919",
+                "address": null,
+                "station_id": 72016648,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.635378,
+                "lon": 8.355157,
+                "name": "BIKE 43487",
+                "address": null,
+                "station_id": 72024904,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.635702,
+                "lon": 8.355066,
+                "name": "BIKE 430563",
+                "address": null,
+                "station_id": 72034522,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.633062,
+                "lon": 8.344189,
+                "name": "BIKE 430577",
+                "address": null,
+                "station_id": 72046937,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.641755,
+                "lon": 8.451051,
+                "name": "Rathaus",
+                "address": null,
+                "station_id": 2846042,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.645531,
+                "lon": 8.458362,
+                "name": "Bahnhof",
+                "address": null,
+                "station_id": 2846056,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.641011,
+                "lon": 8.456748,
+                "name": "Marktplatz",
+                "address": null,
+                "station_id": 2846079,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.643374,
+                "lon": 8.474,
+                "name": "Waldschwimmbad",
+                "address": null,
+                "station_id": 2846092,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.445776,
+                "lon": 7.76897,
+                "name": "Stadtmitte / Fruchthalle",
+                "address": null,
+                "station_id": 2974665,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.443907,
+                "lon": 7.765746,
+                "name": "Richard-Wagner-Straße / Königstraße",
+                "address": null,
+                "station_id": 2974701,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.436519,
+                "lon": 7.769024,
+                "name": "Hauptbahnhof ",
+                "address": null,
+                "station_id": 2974732,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.434924,
+                "lon": 7.768975,
+                "name": "Hauptbahnhof / Zollamtstraße",
+                "address": null,
+                "station_id": 2974743,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.442365,
+                "lon": 7.777205,
+                "name": "Hilde-Mattauch-Platz",
+                "address": null,
+                "station_id": 2974762,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.443052,
+                "lon": 7.770864,
+                "name": "Rummelstraße",
+                "address": null,
+                "station_id": 2974798,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.443593,
+                "lon": 7.759003,
+                "name": "Pfaffplatz",
+                "address": null,
+                "station_id": 2974817,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.438643,
+                "lon": 7.763203,
+                "name": "Stadtpark",
+                "address": null,
+                "station_id": 2974832,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.447457,
+                "lon": 7.751117,
+                "name": "Westbahnhof / Gartenschau",
+                "address": null,
+                "station_id": 2974868,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.430752,
+                "lon": 7.752914,
+                "name": "Trippstadter Straße / Institute ",
+                "address": null,
+                "station_id": 2974903,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.425679,
+                "lon": 7.746322,
+                "name": "Davenportplatz",
+                "address": null,
+                "station_id": 2974947,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.442501,
+                "lon": 7.791495,
+                "name": "Volkspark",
+                "address": null,
+                "station_id": 3318163,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.442871,
+                "lon": 7.79406,
+                "name": "SWK Verkehrs AG (Betriebshof)",
+                "address": null,
+                "station_id": 3560073,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.446787,
+                "lon": 7.758644,
+                "name": "HS Kaiserslautern",
+                "address": null,
+                "station_id": 3845882,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.424723,
+                "lon": 7.750162,
+                "name": "TUK Mensa",
+                "address": null,
+                "station_id": 4300471,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.424001,
+                "lon": 7.754545,
+                "name": "TUK - Innenhof Gebäude 47",
+                "address": null,
+                "station_id": 4300486,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.427054,
+                "lon": 7.759663,
+                "name": "TUK - Pfaffenbergstraße",
+                "address": null,
+                "station_id": 4300497,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.441525,
+                "lon": 7.752878,
+                "name": "Goetheschule",
+                "address": null,
+                "station_id": 14585999,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.442518,
+                "lon": 7.783799,
+                "name": "Messeplatz",
+                "address": null,
+                "station_id": 32996009,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.440617,
+                "lon": 7.759663,
+                "name": "Königstraße",
+                "address": null,
+                "station_id": 32996024,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.448357,
+                "lon": 7.777489,
+                "name": "Mainzer Tor",
+                "address": null,
+                "station_id": 32996035,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.43993,
+                "lon": 7.799258,
+                "name": "Warmfreibad",
+                "address": null,
+                "station_id": 32996052,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.445654,
+                "lon": 7.774458,
+                "name": "Volkshochschule",
+                "address": null,
+                "station_id": 32996060,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.437799,
+                "lon": 7.739418,
+                "name": "Rauschenweg",
+                "address": null,
+                "station_id": 32996077,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.438685,
+                "lon": 7.733527,
+                "name": "Pariser Str. / Keltenweg",
+                "address": null,
+                "station_id": 57587023,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.437799,
+                "lon": 7.718636,
+                "name": "Pariser Str. / Homburger Str.",
+                "address": null,
+                "station_id": 57587878,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.641418,
+                "lon": 8.633865,
+                "name": "Bahnhof",
+                "address": null,
+                "station_id": 5669008,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.641908,
+                "lon": 8.640463,
+                "name": "Parkhof",
+                "address": null,
+                "station_id": 5669094,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.64138,
+                "lon": 8.642952,
+                "name": "Graben",
+                "address": null,
+                "station_id": 5669106,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.647083,
+                "lon": 8.628758,
+                "name": "Weiherhausstraße",
+                "address": null,
+                "station_id": 5669117,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.646667,
+                "lon": 8.636091,
+                "name": "Kettelerstraße",
+                "address": null,
+                "station_id": 5669128,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.650869,
+                "lon": 8.633902,
+                "name": "Nordstadt",
+                "address": null,
+                "station_id": 5669139,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.636982,
+                "lon": 8.619193,
+                "name": "REWE",
+                "address": null,
+                "station_id": 5669149,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.638232,
+                "lon": 8.627926,
+                "name": "Mozartstraße",
+                "address": null,
+                "station_id": 5669162,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.635835,
+                "lon": 8.633258,
+                "name": "Gymnasium",
+                "address": null,
+                "station_id": 5669169,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.635745,
+                "lon": 8.638982,
+                "name": "Hirschhorner Straße",
+                "address": null,
+                "station_id": 5669176,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.633042,
+                "lon": 8.630844,
+                "name": "Dr.-Heinrich-Winter-Straße",
+                "address": null,
+                "station_id": 5669188,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.629348,
+                "lon": 8.625233,
+                "name": "Kreiskrankenhaus",
+                "address": null,
+                "station_id": 5669198,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.633341,
+                "lon": 8.620883,
+                "name": "Gießener Straße",
+                "address": null,
+                "station_id": 5669219,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.640324,
+                "lon": 8.637706,
+                "name": "Feuerbachplatz ",
+                "address": null,
+                "station_id": 11265949,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.637956,
+                "lon": 8.637268,
+                "name": "BIKE 43833",
+                "address": null,
+                "station_id": 72018438,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.643173,
+                "lon": 8.624836,
+                "name": "BIKE 44243",
+                "address": null,
+                "station_id": 72030705,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.643173,
+                "lon": 8.624875,
+                "name": "BIKE 44202",
+                "address": null,
+                "station_id": 72049962,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.552675,
+                "lon": 8.665472,
+                "name": "Bahnhof / ZOB",
+                "address": null,
+                "station_id": 5669441,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.555072,
+                "lon": 8.669903,
+                "name": "Stadthalle",
+                "address": null,
+                "station_id": 5669456,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.550197,
+                "lon": 8.672333,
+                "name": "Dürreplatz",
+                "address": null,
+                "station_id": 5669467,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.549577,
+                "lon": 8.646455,
+                "name": "Krankenhaus / Behördenzentrum",
+                "address": null,
+                "station_id": 5669490,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.544676,
+                "lon": 8.637781,
+                "name": "Haltepunkt Blumenstraße",
+                "address": null,
+                "station_id": 5669496,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.544784,
+                "lon": 8.64926,
+                "name": "Haltepunkt Stahlbad",
+                "address": null,
+                "station_id": 5669507,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.548905,
+                "lon": 8.655928,
+                "name": "Haltepunkt Händelstraße",
+                "address": null,
+                "station_id": 5669516,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.545289,
+                "lon": 8.669752,
+                "name": "Schlosspark",
+                "address": null,
+                "station_id": 5669526,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.552922,
+                "lon": 8.653525,
+                "name": "Wormser Straße",
+                "address": null,
+                "station_id": 6922618,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.553061,
+                "lon": 8.664737,
+                "name": "Bahnhof West",
+                "address": null,
+                "station_id": 7672970,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.535005,
+                "lon": 8.644943,
+                "name": "Waidsee",
+                "address": null,
+                "station_id": 8960826,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.548486,
+                "lon": 8.664999,
+                "name": "Alter OEG-Bahnhof",
+                "address": null,
+                "station_id": 11545488,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.526709,
+                "lon": 8.657237,
+                "name": "Bahnhof Lützelsachsen",
+                "address": null,
+                "station_id": 11545523,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.556658,
+                "lon": 8.674958,
+                "name": "BIKE 430578",
+                "address": null,
+                "station_id": 72021603,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.545289,
+                "lon": 8.629653,
+                "name": "BIKE 43842",
+                "address": null,
+                "station_id": 72043885,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.334484,
+                "lon": 8.534902,
+                "name": "Duttweiler Straße",
+                "address": null,
+                "station_id": 5948313,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.326898,
+                "lon": 8.544466,
+                "name": "Am Gartenschaupark",
+                "address": null,
+                "station_id": 5948332,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.317325,
+                "lon": 8.538029,
+                "name": "Bahnhof",
+                "address": null,
+                "station_id": 5948345,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.317716,
+                "lon": 8.542873,
+                "name": "Karlsruher Straße",
+                "address": null,
+                "station_id": 5948351,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.311285,
+                "lon": 8.54614,
+                "name": "Aquadrom",
+                "address": null,
+                "station_id": 5948359,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.317835,
+                "lon": 8.548447,
+                "name": "Rathaus",
+                "address": null,
+                "station_id": 5948369,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.316164,
+                "lon": 8.564873,
+                "name": "Beim Pumpwerk",
+                "address": null,
+                "station_id": 5948375,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.326049,
+                "lon": 8.565699,
+                "name": "Hockenheimring",
+                "address": null,
+                "station_id": 5948388,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.38553,
+                "lon": 8.571294,
+                "name": "Tourist-Information",
+                "address": null,
+                "station_id": 6290742,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.384262,
+                "lon": 8.572598,
+                "name": "Schlossplatz Schwetzingen",
+                "address": null,
+                "station_id": 6290772,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.378014,
+                "lon": 8.559224,
+                "name": "Wohnmobilstellplatz",
+                "address": null,
+                "station_id": 6290814,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.38078,
+                "lon": 8.570811,
+                "name": "Zähringerstraße",
+                "address": null,
+                "station_id": 6290823,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.380232,
+                "lon": 8.574663,
+                "name": "Jugendzentrum GO IN",
+                "address": null,
+                "station_id": 6290826,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.381343,
+                "lon": 8.588181,
+                "name": "Bellamar",
+                "address": null,
+                "station_id": 6290834,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.373809,
+                "lon": 8.565715,
+                "name": "alla hopp!-Anlage",
+                "address": null,
+                "station_id": 6290842,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.387122,
+                "lon": 8.567002,
+                "name": "Kronenstraße",
+                "address": null,
+                "station_id": 6290864,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.379076,
+                "lon": 8.569449,
+                "name": "GRN-Klinik Schwetzingen",
+                "address": null,
+                "station_id": 6290868,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.394105,
+                "lon": 8.562212,
+                "name": "Friedhof",
+                "address": null,
+                "station_id": 6290877,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.407238,
+                "lon": 8.552604,
+                "name": "Marktplatz Hirschacker",
+                "address": null,
+                "station_id": 6290886,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.384821,
+                "lon": 8.577678,
+                "name": "Bahnhof",
+                "address": null,
+                "station_id": 6329839,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.54146,
+                "lon": 8.369007,
+                "name": "Robert-Schuman-Schule",
+                "address": null,
+                "station_id": 8340852,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.537923,
+                "lon": 8.353869,
+                "name": "Wormser Tor",
+                "address": null,
+                "station_id": 8340986,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.53517,
+                "lon": 8.355854,
+                "name": "Rathausplatz",
+                "address": null,
+                "station_id": 8340998,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.533196,
+                "lon": 8.355221,
+                "name": "Europaring",
+                "address": null,
+                "station_id": 8341012,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.533036,
+                "lon": 8.357999,
+                "name": "Röntgenplatz/Gymnasien",
+                "address": null,
+                "station_id": 8341022,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.530442,
+                "lon": 8.353418,
+                "name": "VHS/Congressforum",
+                "address": null,
+                "station_id": 8341034,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.523471,
+                "lon": 8.357999,
+                "name": "Jakobsplatz",
+                "address": null,
+                "station_id": 8341045,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.522875,
+                "lon": 8.349706,
+                "name": "Haltepunkt Süd",
+                "address": null,
+                "station_id": 8341059,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.542323,
+                "lon": 8.331456,
+                "name": "Stadtklinik",
+                "address": null,
+                "station_id": 8341080,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.534741,
+                "lon": 8.350334,
+                "name": "Hauptbahnhof",
+                "address": null,
+                "station_id": 8363869,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.408083,
+                "lon": 8.626451,
+                "name": "DHBW Mannheim - Campus Eppelheim",
+                "address": null,
+                "station_id": 4726851,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.400103,
+                "lon": 8.626998,
+                "name": "Hauptstraße / Grenzhöferstraße",
+                "address": null,
+                "station_id": 60682257,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.473681,
+                "lon": 8.603057,
+                "name": "Bahnhof ",
+                "address": null,
+                "station_id": 9320481,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.472778,
+                "lon": 8.613936,
+                "name": "Altstadt - Am Graben",
+                "address": null,
+                "station_id": 9320487,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.470296,
+                "lon": 8.606324,
+                "name": "Wasserturm",
+                "address": null,
+                "station_id": 9320517,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.464226,
+                "lon": 8.609623,
+                "name": "Freibad",
+                "address": null,
+                "station_id": 9320522,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.480069,
+                "lon": 8.599531,
+                "name": "Benzstraße",
+                "address": null,
+                "station_id": 16425717,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.478234,
+                "lon": 8.586368,
+                "name": "Ilvesheimer Straße",
+                "address": null,
+                "station_id": 16425741,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.504677,
+                "lon": 8.601469,
+                "name": "Ortsmitte / Unterdorfstraße",
+                "address": null,
+                "station_id": 10046976,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.504959,
+                "lon": 8.595595,
+                "name": "rnv- Bahnhof",
+                "address": null,
+                "station_id": 10046998,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.514473,
+                "lon": 8.613196,
+                "name": "Badesee / Sportzentrum",
+                "address": null,
+                "station_id": 10047011,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.509306,
+                "lon": 8.633494,
+                "name": "S-Bahnhof",
+                "address": null,
+                "station_id": 10047064,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.509987,
+                "lon": 8.629215,
+                "name": "BIKE 430510",
+                "address": null,
+                "station_id": 72010822,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.503524,
+                "lon": 8.60124,
+                "name": "BIKE 430144",
+                "address": null,
+                "station_id": 72035058,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.598859,
+                "lon": 8.477685,
+                "name": "Bahnhof Lampertheim",
+                "address": null,
+                "station_id": 10047180,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.659395,
+                "lon": 8.409492,
+                "name": "Bahnhof Hofheim",
+                "address": null,
+                "station_id": 10047187,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.594391,
+                "lon": 8.453931,
+                "name": "Biedensand Bäder",
+                "address": null,
+                "station_id": 10047195,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.599064,
+                "lon": 8.45281,
+                "name": "Fährhaus",
+                "address": null,
+                "station_id": 10047203,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.594387,
+                "lon": 8.467095,
+                "name": "Haus am Römer",
+                "address": null,
+                "station_id": 10047215,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.595858,
+                "lon": 8.469536,
+                "name": "Schillerplatz",
+                "address": null,
+                "station_id": 10047225,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.595156,
+                "lon": 8.474177,
+                "name": "Stadtpark",
+                "address": null,
+                "station_id": 10047235,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.597604,
+                "lon": 8.484573,
+                "name": "Fachmärkte Ost",
+                "address": null,
+                "station_id": 10047338,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.448092,
+                "lon": 8.67053,
+                "name": "Bahnhofsplatz",
+                "address": null,
+                "station_id": 10062397,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.454289,
+                "lon": 8.665547,
+                "name": "Gewerbegebiet Nord",
+                "address": null,
+                "station_id": 10062411,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.450816,
+                "lon": 8.671743,
+                "name": "Rathausplatz",
+                "address": null,
+                "station_id": 10062425,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.446442,
+                "lon": 8.673947,
+                "name": "Haltepunkt Süd / rnv",
+                "address": null,
+                "station_id": 10062439,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.443673,
+                "lon": 8.670938,
+                "name": "Sportzentrum",
+                "address": null,
+                "station_id": 10062444,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.443959,
+                "lon": 8.626521,
+                "name": "Schwabenheimer Hof",
+                "address": null,
+                "station_id": 10062460,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.451088,
+                "lon": 8.67884,
+                "name": "Hauptstraße / Schulgasse",
+                "address": null,
+                "station_id": 10062465,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.475262,
+                "lon": 8.664298,
+                "name": "BIKE 430261",
+                "address": null,
+                "station_id": 72007592,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.47084,
+                "lon": 8.649741,
+                "name": "BIKE 42863",
+                "address": null,
+                "station_id": 72018599,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.203898,
+                "lon": 8.11155,
+                "name": "Zoo",
+                "address": null,
+                "station_id": 29088335,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.197492,
+                "lon": 8.104948,
+                "name": "Freibad",
+                "address": null,
+                "station_id": 29088346,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.194919,
+                "lon": 8.113004,
+                "name": "Obertorplatz",
+                "address": null,
+                "station_id": 29088360,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.188388,
+                "lon": 8.132388,
+                "name": "Messeparkplatz",
+                "address": null,
+                "station_id": 29088374,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.187004,
+                "lon": 8.125088,
+                "name": "Spiel- und Sportcampus",
+                "address": null,
+                "station_id": 29088389,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.198399,
+                "lon": 8.125418,
+                "name": "Hauptbahnhof",
+                "address": null,
+                "station_id": 29088413,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.198413,
+                "lon": 8.11173,
+                "name": "Rathaus",
+                "address": null,
+                "station_id": 29088436,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.200936,
+                "lon": 8.111062,
+                "name": "Alter Messplatz",
+                "address": null,
+                "station_id": 29088448,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.202716,
+                "lon": 8.109276,
+                "name": "Universität",
+                "address": null,
+                "station_id": 29088461,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.19584,
+                "lon": 8.10739,
+                "name": "Westbahnhof",
+                "address": null,
+                "station_id": 29088540,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.199976,
+                "lon": 8.115533,
+                "name": "Deutsches Tor",
+                "address": null,
+                "station_id": 29088557,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.206846,
+                "lon": 8.142241,
+                "name": "Danziger Platz",
+                "address": null,
+                "station_id": 29088585,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.206573,
+                "lon": 8.122887,
+                "name": "Berufsbildende Schule",
+                "address": null,
+                "station_id": 29088589,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.190863,
+                "lon": 8.118599,
+                "name": "Südpark",
+                "address": null,
+                "station_id": 29088621,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.350006,
+                "lon": 8.141105,
+                "name": "Hauptbahnhof Nordseite",
+                "address": null,
+                "station_id": 31109631,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.355118,
+                "lon": 8.159237,
+                "name": "Bahnhaltepunkt Böbig (Westseite)",
+                "address": null,
+                "station_id": 31109644,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.340961,
+                "lon": 8.15752,
+                "name": "Bahnhaltepunkt Süd",
+                "address": null,
+                "station_id": 31109687,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.371598,
+                "lon": 8.168362,
+                "name": "Bahnhaltepunkt Mußbach",
+                "address": null,
+                "station_id": 31109732,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.35335,
+                "lon": 8.135371,
+                "name": "Rathaus (Juliusplatz)",
+                "address": null,
+                "station_id": 31109746,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.354685,
+                "lon": 8.145772,
+                "name": "Festwiese",
+                "address": null,
+                "station_id": 31109768,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.353591,
+                "lon": 8.120753,
+                "name": "Stadionbad",
+                "address": null,
+                "station_id": 31167155,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.355464,
+                "lon": 8.136443,
+                "name": "Strohmarkt",
+                "address": null,
+                "station_id": 31167186,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.357767,
+                "lon": 8.154731,
+                "name": "Amtsgericht/ BBS",
+                "address": null,
+                "station_id": 31167221,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.353354,
+                "lon": 8.140751,
+                "name": "Karl-Helfferich-Straße/ Konrad-Adenauer-Straße",
+                "address": null,
+                "station_id": 31167353,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.347043,
+                "lon": 8.149608,
+                "name": "Krankenhaus",
+                "address": null,
+                "station_id": 31167414,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.348577,
+                "lon": 8.160138,
+                "name": "Eichendorffschule",
+                "address": null,
+                "station_id": 31167561,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.349192,
+                "lon": 8.143412,
+                "name": "Hauptbahnhof Ausgang Schillerstraße",
+                "address": null,
+                "station_id": 31167602,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            },
+            {
+                "lat": 49.350883,
+                "lon": 8.134807,
+                "name": "Hetzelanlage / Hetzelstraße",
+                "address": null,
+                "station_id": 31167665,
+                "capacity": 2,
+                "rental_uris": {
+                    "web": "https://stuttgart.stadtmobil.de/privatkunden/stationen/station/hauptbahnhof-i-punkt"
+                }
+            }
+        ]
+    },
+    "last_updated": 1621184439,
+    "ttl": 86400
+}

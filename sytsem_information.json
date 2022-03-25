@@ -1,0 +1,13 @@
+{
+    "data": {
+        "language": "DE",
+        "name": "VRNnextbike",
+        "operator": "nextbike GmbH, Erich-Zeigner Allee 69-73, 04229 Leipzig",
+        "system_id": "nextbike_vrn",
+        "timezone": "Europe/Berlin",
+        "url": "https://healthyridepgh.com/",
+        "feed_contact_mail": "support@herrenberg.stadtnavi.de"
+    },
+    "last_updated": 1621184439,
+    "ttl": 86400
+}
